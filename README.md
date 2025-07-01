@@ -16,6 +16,7 @@ These learning-based approaches aim to tune MAC-layer parameters to improve fair
 ## 📄 Citation
 
 If you use this code in your work, please cite our paper:
+
 Mohammad Reza Fasihi and Brian L. Mark, “QoS-aware State-Augmented Learnable Algorithm for Wireless Coexistence Parameter Management”, Jun. 2025; [http://arxiv.org/abs/2506.22652 arXiv:2506.22652].
 
 ## 🧱 Project Structure
