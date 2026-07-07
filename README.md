@@ -11,13 +11,15 @@ This codebase includes implementations of the following algorithms for **Coexist
 * Primal-Dual Constrained Reinforcement Learning (CRL)
 * QaSAL: QoS-aware State-Augmented Learnable Algorithm
 
-These learning-based approaches aim to tune MAC-layer coexistence parameters to improve fairness and meet Quality-of-Service (QoS) requirements in mixed-technology environments.
+These learning-based approaches aim to tune MAC-layer coexistence parameters to improve fairness and meet Quality-of-Service (QoS) requirements in mixed-technology environments. 
 
 ## 📄 Citation
 
 If you use this code in your work, please cite our paper:
 
 M. R. Fasihi, B. L. Mark and O. A. Alotaibi, "QoS-Aware State-Augmented Learning for Wireless Coexistence Parameter Management," in IEEE Transactions on Machine Learning in Communications and Networking, vol. 4, pp. 1120-1137, 2026, doi: 10.1109/TMLCN.2026.3707514.
+
+The paper is available online: https://ieeexplore.ieee.org/document/11579434
 
 ## 🧱 Project Structure
 
